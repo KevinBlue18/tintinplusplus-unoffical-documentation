@@ -7,7 +7,7 @@ I've invited all the TinTin++ user's on github that I know about to the organiza
 -------------
 Documentation
 -------------
-The `TinTin Unofficial Documentation <http://http://tintin-unoffical-documentation.readthedocs.org/>`_ is built using sphinx, which uses python. To build a local version of the documentation that you can edit and publish, you'll need to install the necessary python dependencies first. There are lots of ways to do this, personally I like to use virtualenv and virtualenvwrapper to setup an isolated python environment::
+The `TinTin Unofficial Documentation <http://tintin-unoffical-documentation.readthedocs.org/>`_ is built using sphinx, which uses python. To build a local version of the documentation that you can edit and publish, you'll need to install the necessary python dependencies first. There are lots of ways to do this, personally I like to use virtualenv and virtualenvwrapper to setup an isolated python environment::
 
     pip install virtualenv virtualenvwrapper
 
